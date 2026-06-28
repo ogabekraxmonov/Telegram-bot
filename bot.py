@@ -40,7 +40,7 @@ async def show_premium(message: types.Message):
         "🎁 6 oylik  ---  225 ming so'm\n"
         "🎁 1 yillik ---  395 ming so'm\n\n"
         "Buyurtma qilish uchun:\n"
-        "💳 `9860082455120491` shu kartaga summa o'tkazing "
+        "💳 `9860356639876842` shu kartaga summa o'tkazing "
         "va chekni rasmga olib shu yerga yuboring!"
     )
     await message.answer(text, parse_mode="Markdown")
@@ -55,7 +55,7 @@ async def show_stars(message: types.Message):
         "✨ 500 Stars - 125.000 uzs\n"
         "✨ 1000 Stars - 245.000 uzs\n\n"
         "To'lov uchun karta:\n"
-        "💳 `9860082455120491`\n"
+        "💳 `9860356639876842`\n"
         "To'lovni amalga oshirib, chekni yuboring."
     )
     await message.answer(text, parse_mode="Markdown")
